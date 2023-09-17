@@ -16,8 +16,8 @@ public class AppConfig {
     public static Island2 getIsland(Wood3 wood) {
         return new Island2(wood);
     }
- /*   @Bean
+   @Bean
     public static Duck5 getDuck(Egg6 egg) {
         return new Duck5(egg);
-    }*/
+    }
 }
