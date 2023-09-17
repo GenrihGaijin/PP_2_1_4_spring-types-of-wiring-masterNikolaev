@@ -8,8 +8,7 @@ public class Duck5 {
 
     private final Egg6 egg;
 
-
-    @Autowired
+@Autowired
     public Duck5(Egg6 egg) {
         this.egg = egg;
     }
